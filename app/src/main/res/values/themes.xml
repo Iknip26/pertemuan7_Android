@@ -6,13 +6,13 @@
     </style>
 
     <!-- Base application theme with ActionBar. -->
-    <style name="Base.Theme.MyCourse.WithActionBar" parent="Theme.Material3.DayNight">
+    <style name="Base.Theme.Pertemuan7.WithActionBar" parent="Theme.Material3.DayNight">
         <!-- Customize your light theme here, similar to the theme without ActionBar. -->
         <!-- <item name="colorPrimary">@color/my_light_primary</item> -->
     </style>
 
     <!-- Themes that can be applied to the application or specific activities. -->
     <style name="Theme.MyCourse" parent="Base.Theme.Pertemuan7" />
-    <style name="Theme.MyCourse.WithActionBar" parent="Base.Theme.MyCourse.WithActionBar" />
+    <style name="Theme.MyCourse.WithActionBar" parent="Base.Theme.Pertemuan7.WithActionBar" />
 
 </resources>
